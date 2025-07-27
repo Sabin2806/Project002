@@ -45,6 +45,7 @@ The interface includes:
 - On monitoring, a fullscreen OpenCV window shows:
   - Webcam feed with detection boxes
   - Live attention status (color-coded)
+  - ![Application Screenshot](interface.png)
 
 ---
 
