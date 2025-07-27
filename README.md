@@ -81,19 +81,27 @@ pip install opencv-python numpy scipy
 git clone https://github.com/Sabin2806/edu-focus-attention-monitor.git
 cd edu-focus-attention-monitor
 Run the script:
-python edu_focus.py
+python edufocus.py
 Click “START MONITORING” to begin detection.
 
 Press Q anytime to stop the detection window.
 
+Click "STOP SYSTEM" to close the entire window.
+
 ##💡 Use Cases
 
-👩‍🎓 Online learning attention monitoring
+👩‍🎓 Online Learning Attention Monitoring
+Track and alert students if they lose focus during online classes or e-learning sessions.
 
-🧑‍🏫 Classroom focus detection
+🧑‍🏫 Classroom Focus Detection
+Teachers or educational platforms can monitor student attentiveness during digital or hybrid classrooms.
 
-🧠 Self-productivity tool
+🧠 Self-Productivity Tool
+Individuals can use the system to maintain focus during study or work sessions by getting real-time alerts when distracted.
 
+🤖 Self-Driving Cars (Conceptual Basis)
+Eye tracking and face detection principles in this project are foundational technologies in driver drowsiness detection systems in autonomous or semi-autonomous vehicles.
+ 
 ##📷 Basic computer vision demonstration
 
 ⚠️ Known Limitations
