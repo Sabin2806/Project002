@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 Demo
+##  Demo
 
 ![Demo](edufocus.gif) <!-- Optional: You can record and insert a demo GIF here -->
 
